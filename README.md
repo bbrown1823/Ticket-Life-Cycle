@@ -33,7 +33,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Here is where the osTicket system was used to open a Ticket for and issue with the online banking system for a company.
+  
 </p>
 <br />
 
@@ -63,3 +64,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ![Screenshot 2025-03-27 005449](https://github.com/user-attachments/assets/9d5e9b7e-b423-4cd3-b30f-a08091471fc0)
 
+![Screenshot 2025-03-27 011146](https://github.com/user-attachments/assets/13c02c27-af45-4372-b1fb-76f431510ce2)
+
+
+![Screenshot 2025-03-27 011227](https://github.com/user-attachments/assets/6ea6ed01-b8b2-42bf-9438-ca6e9fc13d47)
