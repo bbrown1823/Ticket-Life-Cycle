@@ -27,38 +27,37 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://github.com/user-attachments/assets/e768833e-3e13-4282-bc6e-afc7b162ee29"
+
+Here is where the osTicket system was used to open a Ticket for and issue with the online banking system for a company.
+  
+
+![Screenshot 2025-03-26 132506](https://github.com/user-attachments/assets/68ae60a2-c220-4774-a6a9-25df674a9a2d)
 
 
 
 </p>
 <p>
-Here is where the osTicket system was used to open a Ticket for and issue with the online banking system for a company.
+
   
 </p>
 <br />
 
 <p>
-<img src="https://github.com/user-attachments/assets/33072281-f7f1-4614-9b58-3000d620b454"
+
+  
+The Ticket that Karen created was not assigned to any specific emoplyee, the first employee to response was John.  
+  
+![Screenshot 2025-03-26 235954](https://github.com/user-attachments/assets/ddddc737-ce0a-4d81-bb66-f18c9cc61aab)
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
-<p>
-<img src="https://github.com/user-attachments/assets/384c0017-c139-40e5-b873-e26e2e4bd95c"
-
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
+After inspecting the ticket further John assigned the ticket to the Online banking department being that this was a issue suited for them to fix.
 
 ![Screenshot 2025-03-27 001058](https://github.com/user-attachments/assets/d0a72567-a69a-48d6-8103-3a5e43908d11)
+</p>
 
+The ticket got updated from the defualt plan to Sev-A, being it was crucial that it be fixed asap.
 
 ![Screenshot 2025-03-27 002310](https://github.com/user-attachments/assets/0921b6a7-9352-4cff-8c4d-4546c1c4ca7a)
 
