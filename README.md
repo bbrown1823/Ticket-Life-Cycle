@@ -57,13 +57,18 @@ After inspecting the ticket further John assigned the ticket to the Online banki
 ![Screenshot 2025-03-27 001058](https://github.com/user-attachments/assets/d0a72567-a69a-48d6-8103-3a5e43908d11)
 </p>
 
-The ticket got updated from the defualt plan to Sev-A, being it was crucial that it be fixed asap.
+The ticket was then updated from the default plan to Sev-A, letting everyone know that this is a crucial problem for the company and needed to be fixed immediately.
+
 
 ![Screenshot 2025-03-27 002310](https://github.com/user-attachments/assets/0921b6a7-9352-4cff-8c4d-4546c1c4ca7a)
+</p>
 
-![Screenshot 2025-03-27 005449](https://github.com/user-attachments/assets/9d5e9b7e-b423-4cd3-b30f-a08091471fc0)
+Here is where you can see some communication between end users about the ticket and how resolving the problem is going.
 
 ![Screenshot 2025-03-27 011146](https://github.com/user-attachments/assets/13c02c27-af45-4372-b1fb-76f431510ce2)
 
+
+
+Here you can see that he issued has been resolved and is ready to send to management or some higher admin to been looked at.
 
 ![Screenshot 2025-03-27 011227](https://github.com/user-attachments/assets/6ea6ed01-b8b2-42bf-9438-ca6e9fc13d47)
